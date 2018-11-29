@@ -2,9 +2,9 @@
 A quick-hacked way to send email alerts if tickets for an event you are eyeing have been released.
 
 # Introduction and Some Disclaimers
-I hacked this project within a couple of hours after my university, the University of the Philippines made it to the finals of the University Athletic Association of the Philippines (UAAP) Men's Basketball Finals. Its goal was to help my friends and I secure tickets for the finals games.
+I hacked this project within a couple of hours after my university, the University of the Philippines, made it to the finals of the University Athletic Association of the Philippines (UAAP) Men's Basketball Finals. The project's goal was to help my friends and I secure tickets for the finals games.
 
-I tried to make it as clean as possible for other hobbyists to modify and use for their own ticketing or other alterting needs, but not a developed enough tool to be used by anyone - because as much as I want to contribute to the open source community, I don't want to significantly ruin my chances of securing tickets!
+I tried to make it as clean as possible for other hobbyists to modify and use for their own ticketing or other alterting needs, but not developed enough for anyone to use as a tool - because as much as I want to contribute to the open source community, I don't want to significantly ruin my chances of securing tickets!
 
 This is also my very first public contribution to open source programming, so I would love any feedback on how to improve my code, documentaion, or anything else regarding this repo.
 
